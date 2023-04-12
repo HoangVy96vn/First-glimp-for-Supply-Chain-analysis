@@ -14,12 +14,12 @@ I proceed some phases with:
       Also, for each case, what is the max, min, average
       c/ Classify into categories of SKU criteria: %delivered/order and find which way to classify
 2. Prepare - skip this step as data was ready
-3. Process - file: check data cleaning and basic information
+3. Process - file: Check data cleaning and basic information.ipynb
       This phase, we'll check how many data we have, any NaN, any error, duplicate,... check data types, data sets
 
 4. Analyze: file: you can reach out 2 files
-      a) Report supply test: I code everything on this file to test my hypothesis and find insights. This file is not suitable for presenting because it contents too much information and might cause misleading for reader
-      b) xxx: In this file, I just make it easier to read and presenting
+      a) Report supply test.ipynb: I code everything on this file to test my hypothesis and find insights. This file is not suitable for presenting because it contents too much information and might cause misleading for reader
+      b) Report  by Python.ipynb: In this file, I just make it easier to read and presenting
 In overall, we answer some questions we make from Ask phase, also clarify information by look deeper to data, and also make questions for further investigation which means deeper analyzing by other data groups.
 By the way, we can use Power BI or Tableau for quicker visualization. I wanted to write down codes so that I can get feedback from our community and also train my skills in Python
 
