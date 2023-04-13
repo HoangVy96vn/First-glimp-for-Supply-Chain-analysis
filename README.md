@@ -23,4 +23,4 @@ I proceed some phases with:
 In overall, we answer some questions we make from Ask phase, also clarify information by look deeper to data, and also make questions for further investigation which means deeper analyzing by other data groups.
 By the way, we can use Power BI or Tableau for quicker visualization. I wanted to write down codes so that I can get feedback from our community and also train my skills in Python
 
-5. Share: Coming soon
+5. Share: file: Power BI Report Candy Supply.pbix
