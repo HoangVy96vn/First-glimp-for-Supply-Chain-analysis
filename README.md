@@ -25,3 +25,4 @@ By the way, we can use Power BI or Tableau for quicker visualization. I wanted t
 
 5. Share: file: Power BI Report Candy Supply.pbix
 or Tableau: https://public.tableau.com/app/profile/hoang.vy.nguyen/viz/InitialAnalyzeforcandysupplytoretailers/Dashboard1#1
+or Presetation by Canvas: https://www.canva.com/design/DAFgBZidZxs/b8xcRjSsNJ9pQnIm9aSWrA/view?utm_content=DAFgBZidZxs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
