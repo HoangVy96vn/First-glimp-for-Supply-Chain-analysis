@@ -24,5 +24,6 @@ In overall, we answer some questions we make from Ask phase, also clarify inform
 By the way, we can use Power BI or Tableau for quicker visualization. I wanted to write down codes so that I can get feedback from our community and also train my skills in Python
 
 5. Share: file: Power BI Report Candy Supply.pbix
-or Tableau: https://public.tableau.com/app/profile/hoang.vy.nguyen/viz/InitialAnalyzeforcandysupplytoretailers/Dashboard1#1
+or Tableau: https://public.tableau.com/views/InitialAnalyzeforcandysupplytoretailers/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
 or Presetation by Canvas: https://www.canva.com/design/DAFgBZidZxs/b8xcRjSsNJ9pQnIm9aSWrA/view?utm_content=DAFgBZidZxs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
